@@ -1209,7 +1209,7 @@ footer .hr{
     padding-bottom: 0.7rem;
     
     margin-top: 1%;
-    padding-left: 0rem;
+    padding-left: 0;
     position: absolute;
 }
 
@@ -1217,7 +1217,7 @@ footer .hr{
 .Menu li a{   
     font-size: 0.8rem;
     
-    margin-left: 1.2rem;
+    margin-left: 1rem;
     
     
 } 
