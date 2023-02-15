@@ -534,10 +534,10 @@ footer{
 
 }
 footer a{
-    font-size: 4rem;
+    font-size: 3rem;
     color: #F3F3F3;
     margin-top: 5rem;
-    margin-left: 5rem;
+    margin-left: 4.5rem;
     transition: all 0.8s ease;
     
     
@@ -1209,7 +1209,7 @@ footer .hr{
 .Menu li a{   
     font-size: 1rem;
     
-    margin-left: 0rem;
+    margin-left: 0.5rem;
     
     
 } 
@@ -1221,7 +1221,7 @@ footer .hr{
     
     font-size: 0.7rem;
     padding-left: 0;
-    margin-left:-15rem;
+    margin-left:-16rem;
     padding: 1rem 1.5rem;
     
     
@@ -1234,10 +1234,10 @@ footer .hr{
 }
 .yazi h1{
     
-    width: 70%;
-    margin-left: 10%;
+    width: 80%;
+    margin-left: 15%;
     font-size: 3rem;
-    margin-top: 40%;
+    margin-top: 50%;
     line-height: 4rem;
     letter-spacing: 0.3rem; 
     animation: ayberk 3s;
@@ -1282,12 +1282,13 @@ footer .hr{
 }
 .yazi h1 strong{
     animation: arslan 0.5s;
+    
 }
 #professional h1{
     letter-spacing: 0.3rem;
     font-size: 2.5rem;
     margin-top: 10%;
-    margin-left: 14%;
+    margin-left: 18%;
 }
 
 #professional h4{
@@ -1296,7 +1297,7 @@ footer .hr{
     font-size: 1rem;
     letter-spacing: 0.1rem;
     margin-top: 24%;
-    margin-left: 15%;
+    margin-left: 18%;
     
 }
 
@@ -1310,7 +1311,7 @@ footer .hr{
 }
     .mainbox button{
         margin-top: 3rem;
-        
+        margin-left: 32%;
     }
 .stat h3{
     margin-top: 4.2%;
@@ -1318,32 +1319,38 @@ footer .hr{
 
 .stat1 h3{
     margin-top: 10%;
-    margin-left: 0%;
+    margin-left: 5%;
+    
 }
 
 .stat2 h3{
-    margin-left: 0%;
+    
     margin-top: 9.5%;
+    margin-left: 5%;
 }
 
 .stat3 h3{
-    margin-left: 0%;
+    
     margin-top: 9.5%;
+    margin-left: 9%;
 
 }
 
 .stat4 h3{
-    margin-left: 0%;
+    
     margin-top: 9.5%;
+    margin-left: 11%;
 }
 
 .stat5 h3{
-    margin-left: 0%;
+    
     margin-top: 9.5%;
+    margin-left: 4%;
 }
 .stat6 h3{
-    margin-left: 0%;
+    
     margin-top: 9.5%;
+    margin-left: 22%;
 }
 .stat h5{ 
     margin-left: 82%;
@@ -1351,32 +1358,32 @@ footer .hr{
 }
 .stat1 h5{
     margin-top: 10%;
-    margin-left: 78%;
+    margin-left: 85%;
     
 }
 .stat2 h5{
-    margin-left: 69%;
+    margin-left: 76%;
     margin-top: 10%;
     
 }
 .stat3 h5{
-    margin-left: 81%;
+    margin-left: 88%;
     margin-top: 10%;
     
 }
 .stat4 h5{
-    margin-left: 58%;
+    margin-left: 65%;
     margin-top: 10%;
     
 }
 .stat5 h5{
-    margin-left: 63%;
+    margin-left: 70%;
     margin-top: 10%;
     
 }
 
 .stat6 h5{
-    margin-left: 60%;
+    margin-left: 67%;
     margin-top: 10%;
     
 }
@@ -1388,7 +1395,7 @@ footer .hr{
 .stick{
     margin-top: 30%;
     height: 148%;   
-    margin-left: 45%;
+    margin-left: 48%;
     
 }
 .dot{
@@ -1407,21 +1414,21 @@ footer .hr{
     letter-spacing: 0.3rem;
     font-size: 3rem;
     margin-top: 10%;
-    margin-left: 15%;
+    margin-left: 18%;
 }
 .info p{
     width: 40%;
 }
 #info1 h2{
-    margin-left: 13rem;
+    margin-left: 16rem;
     margin-top: 28%;
 }
 
 #info1 h3{
-    margin-left: 13rem;
+    margin-left: 16rem;
 }
 #info1 p{
-    margin-left: 13rem; 
+    margin-left: 16rem; 
     width: 40%; 
 }
 #info2 h2{
@@ -1443,17 +1450,17 @@ footer .hr{
     
 }
 #info3 h2{
-    margin-left: 13rem;
+    margin-left: 16rem;
     margin-top: 160%;
 
 }
 
 #info3 h3{
-    margin-left: 13rem;
+    margin-left: 16rem;
 
 }
 #info3 p{
-    margin-left: 13rem;
+    margin-left: 16rem;
     width: 40%;
 }
 #info4 h2{
@@ -1474,25 +1481,25 @@ footer .hr{
     
 }
 #info5 h2{
-    margin-left: 13rem;
+    margin-left: 16rem;
     margin-top: 290%;
 
 }
 
 #info5 h3{
-    margin-left: 13rem;
+    margin-left: 16rem;
     margin-top: 1rem;
 
 }
 #info5 p{
-    margin-left: 13rem;
+    margin-left: 16rem;
     margin-top: 1rem;
     width: 40%;
 }
 
 
 #about h2{
-    margin-left: 10%;
+    margin-left: 15%;
     font-size: 3rem;
     margin-top: 13%;
 }
@@ -1500,7 +1507,7 @@ footer .hr{
 #about p{
     width: 80%;
     margin-top: 30%;
-    margin-left: 8%;
+    margin-left: 12%;
     font-size: 1.1rem;
     line-height: 2.5rem;    
 }
@@ -1527,7 +1534,7 @@ footer{
 footer a{
     font-size: 2rem;
     margin-top: 4rem;
-    margin-left: 2.5rem;
+    margin-left: 2.8rem;
     
     
     
@@ -1537,7 +1544,7 @@ footer a{
 footer h3{
     
     margin-top: 1rem;
-    margin-left: 4rem;
+    margin-left: 4.5rem;
     font-size: 1.2rem;
 }
 
@@ -1546,8 +1553,8 @@ footer .hr{
     
     width: 70%;
     height: 0.1%;
-    margin-top: 8rem;
-    margin-left: 1rem;
+    margin-top: 7.5rem;
+    margin-left: 1.5rem;
     
 }
 
