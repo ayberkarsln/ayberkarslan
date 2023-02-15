@@ -18,8 +18,15 @@
     background: rgb(0, 0, 0);
 }
 ::-webkit-scrollbar-thumb{
+   border-radius: 100vw;
+    background: #02571d;
+    
+}
+
+::-webkit-scrollbar-thumb:hover{
     background: #00D646;
 }
+
 nav{
     
     position: absolute;
@@ -1203,6 +1210,7 @@ footer .hr{
     margin-left: 1rem;
     margin-top: 1%;
     padding-left: 0rem;
+    position: absolute;
 }
 
 
