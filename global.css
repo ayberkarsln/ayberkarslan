@@ -1217,13 +1217,13 @@ footer .hr{
 .Menu li a{   
     font-size: 0.8rem;
     
-    margin-left: 0.8rem;
+    margin-left: 1rem;
     
     
 } 
 .cv{
     animation: all 0.8s;
-    margin-top: 35rem;
+    margin-top: 25rem;
 }
 .cv a{
     
@@ -1402,7 +1402,7 @@ footer .hr{
 
 .stick{
     margin-top: 30%;
-    height: 190%;   
+    height: 180%;   
     margin-left: 48%;
     
 }
