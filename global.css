@@ -1215,7 +1215,7 @@ footer .hr{
 
 
 .Menu li a{   
-    font-size: 1rem;
+    font-size: 0.8rem;
     
     margin-left: 0.5rem;
     
@@ -1397,12 +1397,12 @@ footer .hr{
 }
 
 #experience{
-    height: 200%;
+    height: 240%;
 }
 
 .stick{
     margin-top: 30%;
-    height: 148%;   
+    height: 170%;   
     margin-left: 48%;
     
 }
@@ -1415,7 +1415,7 @@ footer .hr{
 }
 
 .filter4{
-    height: 200%;
+    height: 240%;
 }
 
 #experience h1{
